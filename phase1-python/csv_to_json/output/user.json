@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Shiva Ragi",
+        "email": "shiva@example.com",
+        "age": "29",
+        "country": "India"
+    },
+    {
+        "id": "2",
+        "name": "Rohit Sharma",
+        "email": "rohit@example.com",
+        "age": "32",
+        "country": "India"
+    },
+    {
+        "id": "3",
+        "name": "Sara Kim",
+        "email": "sara@example.com",
+        "age": "27",
+        "country": "South Korea"
+    }
+]
